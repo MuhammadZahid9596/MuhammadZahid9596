@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zahid</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Zahid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Developer&descSize=20&descAlignY=60" width="100%" />
+</p>
 
-<h3 align="center">Senior Backend Developer specializing in PHP, Laravel, Node.js & Python</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Zahid;PHP+%7C+Laravel+%7C+Node.js+%7C+Python;Building+scalable+APIs+and+backend+systems;8%2B+years+shipping+production+software;Open+to+senior+backend+and+full-stack+roles" alt="Typing animation" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-zahid-395745121"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -87,7 +91,7 @@ Unity/C# system using the Leap Motion controller that lets patients do guided wr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZahid9596&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZahid9596&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZahid9596&layout=compact&theme=dark&hide_border=true" height="160" />
 </p>
 
@@ -96,3 +100,7 @@ Unity/C# system using the Leap Motion controller that lets patients do guided wr
 ## 📫 Let's Connect
 
 I'm open to senior backend and full-stack roles. Reach me on [LinkedIn](https://linkedin.com/in/muhammad-zahid-395745121) or at **zahidnasim@live.com**.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
+</p>
